@@ -1,0 +1,11 @@
+@comment{x-kbibtex-personnameformatting=<%f ><%l><, %s>}
+
+@phdthesis{Ledeneva, Y.  (2008),
+	author = "Yulia Ledeneva",
+	institution = "IPN",
+	school = "CIC",
+	title = "{Automatic Language-Independent Detection of 
+Multiword Descriptions for Text Summarization }",
+	url = "http://www.gelbukh.com/thesis/Yulia%20Ledeneva%20-%20PhD.pdf"
+}
+

@@ -1,0 +1,28 @@
+Milne
+
+
+First
+Learning to disambiguate links. Disambiguate terms that occur in plain tex, so that can be linked to the appropiated Wikipedia article.
+Wikipedia snapshot November 20, 2007 under two million articles.
+selected articles containing at least 50 links
+avoided list and disambiguation pages because these are not representative
+unstructured text
+A total of 700 articles were randomly selected
+and set aside for developing the disambiguation algorithm: 500
+for training; 100 for configuration, and a further 100 for final
+evaluation.
+The 500 training articles contain more than 50,000 links. Each
+link represents several training instances. The connection between
+an anchor term and its chosen destination gives a positive
+example, while the remaining possible destinations provide
+negative ones.
+
+
+
+
+
+
+
+
+
+
